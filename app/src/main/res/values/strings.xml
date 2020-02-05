@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login app</string>
+    <string name="title1">Authenticator app</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_enter">Email</string>
+    <string name="pass_enter">Password</string>
+    <string name="register_an_account">Create a new account</string>
+    <string name="login_account">Login to your account</string>
+    <string name="submit">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="already_registered_login_here">Already registered? Login Here</string>
+    <string name="new_here">New Here? Create an account</string>
+    <string name="logout">Logout</string>
+    <string name="you_date_of_birth">You date of birth</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email_address">Your email address</string>
+    <string name="todo">your picture</string>
+    <string name="dob_enter">Date of birth</string>
+</resources>
